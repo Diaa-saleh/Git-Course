@@ -1,6 +1,6 @@
 
 
-class {
+class Person{
 
     constructor(  ) {
 
@@ -14,3 +14,5 @@ class {
 
     }
 }
+
+console.log( new Person(  ).getName(  ) ) ;
