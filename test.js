@@ -1,3 +1,4 @@
 
 console.log("hello test")
-consol
+console.log("welcome")
+let a = "snsjwgwdbi"
